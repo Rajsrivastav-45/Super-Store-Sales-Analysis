@@ -40,7 +40,7 @@ The dashboard helps analyze sales performance, profit, and customer purchasing b
 ## 🛠 Tools & Technologies
 
 * Power BI
-* Excel / CSV Dataset
+* CSV Dataset
 
 ---
 
