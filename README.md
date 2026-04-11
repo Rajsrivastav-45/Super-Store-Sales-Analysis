@@ -14,9 +14,8 @@ The dashboard helps analyze sales performance, profit, and customer purchasing b
 * `SuperStoreDashboard.pbix` – Power BI dashboard file
 * `dashboard.png` – Dashboard preview image
 * `dataset.csv` – Dataset used for analysis
-
----
-
+* `superstoresqlquries 
+----
 ## 📌 Key Features
 
 * ✔️ Total Sales, Profit, and Orders KPIs
@@ -41,6 +40,7 @@ The dashboard helps analyze sales performance, profit, and customer purchasing b
 
 * Power BI
 * CSV Dataset
+* My SQL
 
 ---
 
