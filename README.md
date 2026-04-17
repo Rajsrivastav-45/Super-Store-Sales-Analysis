@@ -48,7 +48,6 @@ The dashboard helps analyze sales performance, profit, and customer purchasing b
 
 ## 📷 Dashboard Preview
 
-(Super Store dashboard 1.png)
-
+`Super Store Deshboard 1.png`
 ---
 
