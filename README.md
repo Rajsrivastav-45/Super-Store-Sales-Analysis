@@ -14,7 +14,8 @@ The dashboard helps analyze sales performance, profit, and customer purchasing b
 * `SuperStoreDashboard.pbix` – Power BI dashboard file
 * `dashboard.png` – Dashboard preview image
 * `dataset.csv` – Dataset used for analysis
-* `superstoresqlquries 
+* `super store orders SQL queries.sql` -  Using SQL queries
+* `SuperStore.pbix` - using python(pandas, matplotlib)
 ----
 ## 📌 Key Features
 
@@ -41,6 +42,7 @@ The dashboard helps analyze sales performance, profit, and customer purchasing b
 * Power BI
 * CSV Dataset
 * My SQL
+* Python
 
 ---
 
